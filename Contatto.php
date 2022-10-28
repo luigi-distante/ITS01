@@ -16,3 +16,5 @@ class Contatto {
         $this->user         = $user;
     }
 }
+
+?>
